@@ -1,0 +1,6 @@
+2021-11-06T06:54:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 165
+
+2021-11-06T19:02:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\schemes\base-ui.php on line 5
+
+2021-11-06T19:02:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\elements\section.php on line 4
+
